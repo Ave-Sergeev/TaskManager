@@ -1,0 +1,7 @@
+[error] /Users/akpv/WorkProject/Http4s/project/Dependencies.scala:3:1: expected class or object definition
+[error] val http4sV = "0.21.30"
+[error] ^
+[error] /Users/akpv/WorkProject/Http4s/project/Dependencies.scala:4:1: expected class or object definition
+[error] val circe = "0.14.1"
+[error] ^
+[error] two errors found
